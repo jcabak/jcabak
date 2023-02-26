@@ -1,7 +1,7 @@
 settings:
   username: "jcabak"
   commit_msg: "⚡ Update README with the recent activity"
-  max_lines: 25
+  max_lines: 30
   readme_file: "./README.md"
   disabled_events:
     - "comments"
@@ -14,7 +14,7 @@ settings:
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
   line_prefix: "{NUM}. "
   ignored_repos:
-    - username/repo
+    - jcabak/jcabak
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
