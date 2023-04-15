@@ -107,8 +107,10 @@ Last Updated: Saturday, April 15th, 2023, 11:37:36 AM
 
 
 ## Open Pull Requests
-star	icon	user	repository	pull request name
-⭐️	<img src="https://github.com/pa11y.png" width="16" height="16" alt="Logo pa11y.github.io">	**[pa11y](https://github.com/pa11y)**	[pa11y.github.io](https://github.com/pa11y/pa11y.github.io)	Improved CLS
-⭐️	<img src="https://github.com/homebridge.png" width="16" height="16" alt="Logo homebridge.io">	**[homebridge](https://github.com/homebridge)**	[homebridge.io](https://github.com/homebridge/homebridge.io)	Accessibility and SEO improvements
-⭐️	<img src="https://github.com/letsencrypt.png" width="16" height="16" alt="Logo website">	**[letsencrypt](https://github.com/letsencrypt)**	[website](https://github.com/letsencrypt/website)	Accessibility and SEO improvements
-⭐️	<img src="https://github.com/GoogleChromeLabs.png" width="16" height="16" alt="Logo quicklink">	**[GoogleChromeLabs](https://github.com/GoogleChromeLabs)**	[quicklink](https://github.com/GoogleChromeLabs/quicklink)	Accessibility and SEO improvements
+|star|icon|user|repository|pull request name|
+|:----|:----|:----|:----|:----|
+|⭐️|<img src="https://github.com/pa11y.png" width="16" height="16" alt="Logo pa11y.github.io">|**[pa11y](https://github.com/pa11y)**|[pa11y.github.io](https://github.com/pa11y/pa11y.github.io)|Improved CLS|
+|⭐️|<img src="https://github.com/homebridge.png" width="16" height="16" alt="Logo homebridge.io">|**[homebridge](https://github.com/homebridge)**|[homebridge.io](https://github.com/homebridge/homebridge.io)|Accessibility and SEO improvements|
+|⭐️|<img src="https://github.com/letsencrypt.png" width="16" height="16" alt="Logo website">|**[letsencrypt](https://github.com/letsencrypt)**|[website](https://github.com/letsencrypt/website)|Accessibility and SEO improvements|
+|⭐️|<img src="https://github.com/GoogleChromeLabs.png" width="16" height="16" alt="Logo quicklink">|**[GoogleChromeLabs](https://github.com/GoogleChromeLabs)**|[quicklink](https://github.com/GoogleChromeLabs/quicklink)|Accessibility and SEO improvements|
+
