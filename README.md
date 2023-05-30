@@ -62,6 +62,7 @@ Last Updated: Tuesday, May 30th, 2023, 10:37:40 AM
 ## Closed Pull Requests
 |star|icon|user|repository|pull request name|
 |:----|:----|:----|:----|:----|
+| |<img src="https://github.com/joomla.png" width="16" height="16" alt="Logo accessibility">|**[joomla](https://github.com/joomla)**|[accessibility](https://github.com/joomla/accessibility)|fix typos|
 |⭐️|<img src="https://github.com/microsoft.png" width="16" height="16" alt="Logo TypeScript-Website">|**[microsoft](https://github.com/microsoft)**|[TypeScript-Website](https://github.com/microsoft/TypeScript-Website)|Performance improvement|
 | |<img src="https://github.com/EbookFoundation.png" width="16" height="16" alt="Logo free-programming-books">|[EbookFoundation](https://github.com/EbookFoundation)|[free-programming-books](https://github.com/EbookFoundation/free-programming-books)|fix typo|
 | |<img src="https://github.com/irdpl.png" width="16" height="16" alt="Logo irdpl.github.io">|[irdpl](https://github.com/irdpl)|[irdpl.github.io](https://github.com/irdpl/irdpl.github.io)|Accessibility improvements|
@@ -111,14 +112,13 @@ Last Updated: Tuesday, May 30th, 2023, 10:37:40 AM
 
 
 
+
 ## Open Pull Requests
 |star|icon|user|repository|pull request name|
 |:----|:----|:----|:----|:----|
 |⭐️|<img src="https://github.com/govtech-polska.png" width="16" height="16" alt="Logo fact_checking_portal">|**[govtech-polska](https://github.com/govtech-polska)**|[fact_checking_portal](https://github.com/govtech-polska/fact_checking_portal)|Accessibility improvements|
-|⭐️|<img src="https://github.com/joomla.png" width="16" height="16" alt="Logo accessibility">|**[joomla](https://github.com/joomla)**|[accessibility](https://github.com/joomla/accessibility)|fix typos|
 |⭐️|<img src="https://github.com/pa11y.png" width="16" height="16" alt="Logo pa11y.github.io">|**[pa11y](https://github.com/pa11y)**|[pa11y.github.io](https://github.com/pa11y/pa11y.github.io)|Improved CLS|
 |⭐️|<img src="https://github.com/homebridge.png" width="16" height="16" alt="Logo homebridge.io">|**[homebridge](https://github.com/homebridge)**|[homebridge.io](https://github.com/homebridge/homebridge.io)|Accessibility and SEO improvements|
 |⭐️|<img src="https://github.com/letsencrypt.png" width="16" height="16" alt="Logo website">|**[letsencrypt](https://github.com/letsencrypt)**|[website](https://github.com/letsencrypt/website)|Accessibility and SEO improvements|
 |⭐️|<img src="https://github.com/GoogleChromeLabs.png" width="16" height="16" alt="Logo quicklink">|**[GoogleChromeLabs](https://github.com/GoogleChromeLabs)**|[quicklink](https://github.com/GoogleChromeLabs/quicklink)|Accessibility and SEO improvements|
 |⭐️|<img src="https://github.com/iina.png" width="16" height="16" alt="Logo iina-website">|**[iina](https://github.com/iina)**|[iina-website](https://github.com/iina/iina-website)|Accessibility and SEO improvements|
-
