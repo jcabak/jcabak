@@ -62,7 +62,7 @@ Last Updated: Thursday, June 1st, 2023, 9:37:33 AM
 ## Closed Pull Requests
 |star|icon|user|repository|pull request name|
 |:----|:----|:----|:----|:----|
-| |<img src="https://github.com/joomla.png" width="16" height="16" alt="Logo accessibility">|**[joomla](https://github.com/joomla)**|[accessibility](https://github.com/joomla/accessibility)|fix typos|
+| |<img src="https://github.com/rails.png" width="16" height="16" alt="Logo webiste">|**[rails](https://github.com/rails)**|[webiste](https://github.com/rails/webiste)|Accessibility and Performance improvements|<img src="https://github.com/joomla.png" width="16" height="16" alt="Logo accessibility">|[joomla](https://github.com/joomla)|[accessibility](https://github.com/joomla/accessibility)|fix typos|
 |⭐️|<img src="https://github.com/microsoft.png" width="16" height="16" alt="Logo TypeScript-Website">|**[microsoft](https://github.com/microsoft)**|[TypeScript-Website](https://github.com/microsoft/TypeScript-Website)|Performance improvement|
 | |<img src="https://github.com/EbookFoundation.png" width="16" height="16" alt="Logo free-programming-books">|[EbookFoundation](https://github.com/EbookFoundation)|[free-programming-books](https://github.com/EbookFoundation/free-programming-books)|fix typo|
 | |<img src="https://github.com/irdpl.png" width="16" height="16" alt="Logo irdpl.github.io">|[irdpl](https://github.com/irdpl)|[irdpl.github.io](https://github.com/irdpl/irdpl.github.io)|Accessibility improvements|
@@ -109,6 +109,8 @@ Last Updated: Thursday, June 1st, 2023, 9:37:33 AM
 | |<img src="https://github.com/responsively-org.png" width="16" height="16" alt="Logo website">|**[responsively-org](https://github.com/responsively-org)**|[website](https://github.com/responsively-org/website)|Reduces images file sizes|
 | |<img src="https://github.com/responsively-org.png" width="16" height="16" alt="Logo website">|**[responsively-org](https://github.com/responsively-org)**|[website](https://github.com/responsively-org/website)|Accessibility improved|
 | |<img src="https://github.com/responsively-org.png" width="16" height="16" alt="Logo responsively-app">|**[responsively-org](https://github.com/responsively-org)**|[responsively-app](https://github.com/responsively-org/responsively-app)|Add tooltip to icons on left panel|
+
+
 
 
 
