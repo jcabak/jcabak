@@ -23,40 +23,40 @@ Here are some ideas to get you started:
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#137](https://github.com/rails/website/pull/137) in [rails/website](https://github.com/rails/website)<br>
-2. ⬆️ Pushed 1 commit(s) to [jcabak/rails-website](https://github.com/jcabak/rails-website)<br>
-3. ⬆️ Pushed 13 commit(s) to [jcabak/rails-website](https://github.com/jcabak/rails-website)<br>
-4. ⬆️ Pushed 267 commit(s) to [jcabak/rails-website](https://github.com/jcabak/rails-website)<br>
-5. 🔱 Forked [jcabak/stripe.github.io](https://github.com/jcabak/stripe.github.io) from [stripe/stripe.github.io](https://github.com/stripe/stripe.github.io)<br>
-6. ⭐ Starred [ryersondmp/sa11y](https://github.com/ryersondmp/sa11y)<br>
-7. 🔱 Forked [jcabak/Web-Dev-For-Beginners](https://github.com/jcabak/Web-Dev-For-Beginners) from [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)<br>
-8. 💪 Opened PR [#9354](https://github.com/EbookFoundation/free-programming-books/pull/9354) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
-9. ⬆️ Pushed 1 commit(s) to [jcabak/free-programming-books](https://github.com/jcabak/free-programming-books)<br>
-10. 🔱 Forked [jcabak/free-programming-books](https://github.com/jcabak/free-programming-books) from [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
-11. 💪 Opened PR [#2803](https://github.com/microsoft/TypeScript-Website/pull/2803) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)<br>
-12. ⬆️ Pushed 1 commit(s) to [jcabak/TypeScript-Website](https://github.com/jcabak/TypeScript-Website)<br>
-13. 🔱 Forked [jcabak/TypeScript-Website](https://github.com/jcabak/TypeScript-Website) from [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)<br>
-14. ⬆️ Pushed 1000 commit(s) to [jcabak/MDN-Web-Docs-content](https://github.com/jcabak/MDN-Web-Docs-content)<br>
-15. 💪 Opened PR [#26](https://github.com/govtech-polska/fact_checking_portal/pull/26) in [govtech-polska/fact_checking_portal](https://github.com/govtech-polska/fact_checking_portal)<br>
-16. ⬆️ Pushed 1 commit(s) to [jcabak/fact_checking_portal](https://github.com/jcabak/fact_checking_portal)<br>
-17. 🔱 Forked [jcabak/fact_checking_portal](https://github.com/jcabak/fact_checking_portal) from [govtech-polska/fact_checking_portal](https://github.com/govtech-polska/fact_checking_portal)<br>
-18. 🔱 Forked [jcabak/Contrast-Finder](https://github.com/jcabak/Contrast-Finder) from [Asqatasun/Contrast-Finder](https://github.com/Asqatasun/Contrast-Finder)<br>
-19. 🔱 Forked [jcabak/desktop.gov.au](https://github.com/jcabak/desktop.gov.au) from [govau/desktop.gov.au](https://github.com/govau/desktop.gov.au)<br>
-20. 💪 Opened PR [#72](https://github.com/joomla/accessibility/pull/72) in [joomla/accessibility](https://github.com/joomla/accessibility)<br>
-21. ⬆️ Pushed 1 commit(s) to [jcabak/joomla-accessibility](https://github.com/jcabak/joomla-accessibility)<br>
-22. 🔱 Forked [jcabak/joomla-accessibility](https://github.com/jcabak/joomla-accessibility) from [joomla/accessibility](https://github.com/joomla/accessibility)<br>
-23. ⬆️ Pushed 423 commit(s) to [jcabak/TypeScript-Website-Localizations](https://github.com/jcabak/TypeScript-Website-Localizations)<br>
-24. ⬆️ Pushed 20 commit(s) to [jcabak/irdpl-wcag](https://github.com/jcabak/irdpl-wcag)<br>
-25. ⭐ Starred [TalAter/awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps)<br>
-26. 📔 Created new repository [jcabak/Sitemap.xml-URL-Extractor](https://github.com/jcabak/Sitemap.xml-URL-Extractor)<br>
-27. 💪 Opened PR [#1](https://github.com/irdpl/irdpl.github.io/pull/1) in [irdpl/irdpl.github.io](https://github.com/irdpl/irdpl.github.io)<br>
-28. ⬆️ Pushed 1 commit(s) to [jcabak/irdpl](https://github.com/jcabak/irdpl)<br>
-29. ⬆️ Pushed 1 commit(s) to [jcabak/irdpl-wcag](https://github.com/jcabak/irdpl-wcag)<br>
-30. 🔱 Forked [jcabak/irdpl](https://github.com/jcabak/irdpl) from [irdpl/irdpl.github.io](https://github.com/irdpl/irdpl.github.io)<br>
+1. ⭐ Starred [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals)<br>
+2. 💪 Opened PR [#137](https://github.com/rails/website/pull/137) in [rails/website](https://github.com/rails/website)<br>
+3. ⬆️ Pushed 1 commit(s) to [jcabak/rails-website](https://github.com/jcabak/rails-website)<br>
+4. ⬆️ Pushed 13 commit(s) to [jcabak/rails-website](https://github.com/jcabak/rails-website)<br>
+5. ⬆️ Pushed 267 commit(s) to [jcabak/rails-website](https://github.com/jcabak/rails-website)<br>
+6. 🔱 Forked [jcabak/stripe.github.io](https://github.com/jcabak/stripe.github.io) from [stripe/stripe.github.io](https://github.com/stripe/stripe.github.io)<br>
+7. ⭐ Starred [ryersondmp/sa11y](https://github.com/ryersondmp/sa11y)<br>
+8. 🔱 Forked [jcabak/Web-Dev-For-Beginners](https://github.com/jcabak/Web-Dev-For-Beginners) from [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)<br>
+9. 💪 Opened PR [#9354](https://github.com/EbookFoundation/free-programming-books/pull/9354) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
+10. ⬆️ Pushed 1 commit(s) to [jcabak/free-programming-books](https://github.com/jcabak/free-programming-books)<br>
+11. 🔱 Forked [jcabak/free-programming-books](https://github.com/jcabak/free-programming-books) from [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
+12. 💪 Opened PR [#2803](https://github.com/microsoft/TypeScript-Website/pull/2803) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)<br>
+13. ⬆️ Pushed 1 commit(s) to [jcabak/TypeScript-Website](https://github.com/jcabak/TypeScript-Website)<br>
+14. 🔱 Forked [jcabak/TypeScript-Website](https://github.com/jcabak/TypeScript-Website) from [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)<br>
+15. ⬆️ Pushed 1000 commit(s) to [jcabak/MDN-Web-Docs-content](https://github.com/jcabak/MDN-Web-Docs-content)<br>
+16. 💪 Opened PR [#26](https://github.com/govtech-polska/fact_checking_portal/pull/26) in [govtech-polska/fact_checking_portal](https://github.com/govtech-polska/fact_checking_portal)<br>
+17. ⬆️ Pushed 1 commit(s) to [jcabak/fact_checking_portal](https://github.com/jcabak/fact_checking_portal)<br>
+18. 🔱 Forked [jcabak/fact_checking_portal](https://github.com/jcabak/fact_checking_portal) from [govtech-polska/fact_checking_portal](https://github.com/govtech-polska/fact_checking_portal)<br>
+19. 🔱 Forked [jcabak/Contrast-Finder](https://github.com/jcabak/Contrast-Finder) from [Asqatasun/Contrast-Finder](https://github.com/Asqatasun/Contrast-Finder)<br>
+20. 🔱 Forked [jcabak/desktop.gov.au](https://github.com/jcabak/desktop.gov.au) from [govau/desktop.gov.au](https://github.com/govau/desktop.gov.au)<br>
+21. 💪 Opened PR [#72](https://github.com/joomla/accessibility/pull/72) in [joomla/accessibility](https://github.com/joomla/accessibility)<br>
+22. ⬆️ Pushed 1 commit(s) to [jcabak/joomla-accessibility](https://github.com/jcabak/joomla-accessibility)<br>
+23. 🔱 Forked [jcabak/joomla-accessibility](https://github.com/jcabak/joomla-accessibility) from [joomla/accessibility](https://github.com/joomla/accessibility)<br>
+24. ⬆️ Pushed 423 commit(s) to [jcabak/TypeScript-Website-Localizations](https://github.com/jcabak/TypeScript-Website-Localizations)<br>
+25. ⬆️ Pushed 20 commit(s) to [jcabak/irdpl-wcag](https://github.com/jcabak/irdpl-wcag)<br>
+26. ⭐ Starred [TalAter/awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps)<br>
+27. 📔 Created new repository [jcabak/Sitemap.xml-URL-Extractor](https://github.com/jcabak/Sitemap.xml-URL-Extractor)<br>
+28. 💪 Opened PR [#1](https://github.com/irdpl/irdpl.github.io/pull/1) in [irdpl/irdpl.github.io](https://github.com/irdpl/irdpl.github.io)<br>
+29. ⬆️ Pushed 1 commit(s) to [jcabak/irdpl](https://github.com/jcabak/irdpl)<br>
+30. ⬆️ Pushed 1 commit(s) to [jcabak/irdpl-wcag](https://github.com/jcabak/irdpl-wcag)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 13th, 2023, 11:37:31 AM
+Last Updated: Tuesday, June 13th, 2023, 12:34:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
