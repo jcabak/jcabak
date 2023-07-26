@@ -44,17 +44,10 @@ This is a list of my most recent activity on GitHub.
 19. ⬆️ Pushed 267 commit(s) to [jcabak/rails-website](https://github.com/jcabak/rails-website)<br>
 20. 🔱 Forked [jcabak/stripe.github.io](https://github.com/jcabak/stripe.github.io) from [stripe/stripe.github.io](https://github.com/stripe/stripe.github.io)<br>
 21. ⭐ Starred [ryersondmp/sa11y](https://github.com/ryersondmp/sa11y)<br>
-22. 🔱 Forked [jcabak/Web-Dev-For-Beginners](https://github.com/jcabak/Web-Dev-For-Beginners) from [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)<br>
-23. 💪 Opened PR [#9354](https://github.com/EbookFoundation/free-programming-books/pull/9354) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
-24. ⬆️ Pushed 1 commit(s) to [jcabak/free-programming-books](https://github.com/jcabak/free-programming-books)<br>
-25. 🔱 Forked [jcabak/free-programming-books](https://github.com/jcabak/free-programming-books) from [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
-26. 💪 Opened PR [#2803](https://github.com/microsoft/TypeScript-Website/pull/2803) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)<br>
-27. ⬆️ Pushed 1 commit(s) to [jcabak/TypeScript-Website](https://github.com/jcabak/TypeScript-Website)<br>
-28. 🔱 Forked [jcabak/TypeScript-Website](https://github.com/jcabak/TypeScript-Website) from [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 26th, 2023, 1:37:09 AM
+Last Updated: Wednesday, July 26th, 2023, 2:37:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
