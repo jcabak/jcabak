@@ -81,9 +81,9 @@ Last Updated: Tuesday, November 21st, 2023, 11:37:59 PM
 
 
 ## Open Pull Requests
-| |Icon|User|Repository|Stars|Forks|Pull Request| |
-|:----|:----|:----|:----|:----|:----|:----|:----|
-| |<img src="https://avatars.githubusercontent.com/u/51910064?v=4" alt="Logo simple-login" width="30" height="30">|[simple-login](https://github.com/simple-login)|[website](https://github.com/simple-login/website)|36|31|[Added Polish translation](https://github.com/simple-login/website/pull/94)| |
-| |<img src="https://avatars.githubusercontent.com/u/53786759?v=4" alt="Logo govtech-polska" width="30" height="30">|[govtech-polska](https://github.com/govtech-polska)|[fact_checking_portal](https://github.com/govtech-polska/fact_checking_portal)|1|2|[Accessibility improvements](https://github.com/govtech-polska/fact_checking_portal/pull/26)| |
-| |<img src="https://avatars.githubusercontent.com/u/9289019?v=4" alt="Logo letsencrypt" width="30" height="30">|[letsencrypt](https://github.com/letsencrypt)|[website](https://github.com/letsencrypt/website)|801|610|[Accessibility and SEO improvements](https://github.com/letsencrypt/website/pull/1382)| |
-| |<img src="https://avatars.githubusercontent.com/u/35151645?v=4" alt="Logo iina" width="30" height="30">|[iina](https://github.com/iina)|[iina-website](https://github.com/iina/iina-website)|114|27|[Accessibility and SEO improvements](https://github.com/iina/iina-website/pull/34)| |
+|Icon|User|Repository|Stars|Forks|Pull Request|
+|:----|:----|:----|:----|:----|:----|
+|<img src="https://avatars.githubusercontent.com/u/51910064?v=4" alt="Logo simple-login" width="30" height="30">|[simple-login](https://github.com/simple-login)|[website](https://github.com/simple-login/website)|36|31|[Added Polish translation](https://github.com/simple-login/website/pull/94)|
+|<img src="https://avatars.githubusercontent.com/u/53786759?v=4" alt="Logo govtech-polska" width="30" height="30">|[govtech-polska](https://github.com/govtech-polska)|[fact_checking_portal](https://github.com/govtech-polska/fact_checking_portal)|1|2|[Accessibility improvements](https://github.com/govtech-polska/fact_checking_portal/pull/26)|
+|<img src="https://avatars.githubusercontent.com/u/9289019?v=4" alt="Logo letsencrypt" width="30" height="30">|[letsencrypt](https://github.com/letsencrypt)|[website](https://github.com/letsencrypt/website)|801|609|[Accessibility and SEO improvements](https://github.com/letsencrypt/website/pull/1382)|
+|<img src="https://avatars.githubusercontent.com/u/35151645?v=4" alt="Logo iina" width="30" height="30">|[iina](https://github.com/iina)|[iina-website](https://github.com/iina/iina-website)|114|27|[Accessibility and SEO improvements](https://github.com/iina/iina-website/pull/34)|
