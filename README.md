@@ -14,11 +14,10 @@ This is a list of my most recent activity on GitHub.
 3. 🔱 Forked [jcabak/pika](https://github.com/jcabak/pika) from [superhighfives/pika](https://github.com/superhighfives/pika)<br>
 4. ⬆️ Pushed 3 commit(s) to [jcabak/SimpleLogin-website](https://github.com/jcabak/SimpleLogin-website)<br>
 5. ⬆️ Pushed 9 commit(s) to [jcabak/SimpleLogin-website](https://github.com/jcabak/SimpleLogin-website)<br>
-6. 🔱 Forked [jcabak/imageoptim-website](https://github.com/jcabak/imageoptim-website) from [ImageOptim/website](https://github.com/ImageOptim/website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 6th, 2024, 2:37:38 AM
+Last Updated: Tuesday, February 6th, 2024, 3:17:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
