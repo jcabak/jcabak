@@ -9,7 +9,7 @@
 
 This is a list of my most recent activity on GitHub.
 
-<!-- RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)<br>
 2. 🔱 Forked [jcabak/intel-rohd-website](https://github.com/jcabak/intel-rohd-website) from [intel/rohd-website](https://github.com/intel/rohd-website)<br>
 3. 🔱 Forked [jcabak/www--site-theme](https://github.com/jcabak/www--site-theme) from [OWASP/www--site-theme](https://github.com/OWASP/www--site-theme)<br>
