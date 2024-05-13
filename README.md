@@ -4,7 +4,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcabak&theme=github)
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=jcabak)](https://git.io/streak-stats)-->
 ## Recent Activity
 
 This is a list of my most recent activity on GitHub.
