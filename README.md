@@ -9,40 +9,40 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [artginzburg/MiddleClick-Sonoma](https://github.com/artginzburg/MiddleClick-Sonoma)<br>
-2. ⭐ Starred [FuzzyIdeas/Clop](https://github.com/FuzzyIdeas/Clop)<br>
-3. ⭐ Starred [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)<br>
-4. ⭐ Starred [MrKai77/Loop](https://github.com/MrKai77/Loop)<br>
-5. ⭐ Starred [Vincent-liuwingsang/unlost](https://github.com/Vincent-liuwingsang/unlost)<br>
-6. ⭐ Starred [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab)<br>
-7. ⭐ Starred [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)<br>
-8. ⭐ Starred [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar)<br>
-9. ⭐ Starred [jordanbaird/Ice](https://github.com/jordanbaird/Ice)<br>
-10. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-11. ⭐ Starred [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)<br>
-12. 🔱 Forked [jcabak/intel-rohd-website](https://github.com/jcabak/intel-rohd-website) from [intel/rohd-website](https://github.com/intel/rohd-website)<br>
-13. 🔱 Forked [jcabak/www--site-theme](https://github.com/jcabak/www--site-theme) from [OWASP/www--site-theme](https://github.com/OWASP/www--site-theme)<br>
-14. 🔱 Forked [jcabak/owasp.github.io](https://github.com/jcabak/owasp.github.io) from [OWASP/owasp.github.io](https://github.com/OWASP/owasp.github.io)<br>
-15. 💪 Opened PR [#121](https://github.com/w3c/w3c.github.io/pull/121) in [w3c/w3c.github.io](https://github.com/w3c/w3c.github.io)<br>
-16. ⬆️ Pushed 1 commit(s) to [jcabak/w3c.github.io](https://github.com/jcabak/w3c.github.io)<br>
-17. 🔱 Forked [jcabak/w3c.github.io](https://github.com/jcabak/w3c.github.io) from [w3c/w3c.github.io](https://github.com/w3c/w3c.github.io)<br>
-18. 👍 Approved [#137](https://github.com/w3c/wai-website-data/pull/137#pullrequestreview-1988419617) in [w3c/wai-website-data](https://github.com/w3c/wai-website-data)<br>
-19. 🔱 Forked [jcabak/unicef-kindly-website](https://github.com/jcabak/unicef-kindly-website) from [unicef/kindly-website](https://github.com/unicef/kindly-website)<br>
-20. ⭐ Starred [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css)<br>
-21. 💪 Opened PR [#213](https://github.com/Orange-OpenSource/Orange-Confort-plus/pull/213) in [Orange-OpenSource/Orange-Confort-plus](https://github.com/Orange-OpenSource/Orange-Confort-plus)<br>
-22. ⬆️ Pushed 1 commit(s) to [jcabak/Orange-Confort-plus](https://github.com/jcabak/Orange-Confort-plus)<br>
-23. 🔱 Forked [jcabak/Orange-Confort-plus](https://github.com/jcabak/Orange-Confort-plus) from [Orange-OpenSource/Orange-Confort-plus](https://github.com/Orange-OpenSource/Orange-Confort-plus)<br>
-24. ⭐ Starred [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind)<br>
-25. ⭐ Starred [CloudCannon/rosey](https://github.com/CloudCannon/rosey)<br>
-26. 🔱 Forked [jcabak/RedHatOfficial.github.io](https://github.com/jcabak/RedHatOfficial.github.io) from [RedHatOfficial/RedHatOfficial.github.io](https://github.com/RedHatOfficial/RedHatOfficial.github.io)<br>
-27. ⬆️ Pushed 177 commit(s) to [jcabak/wai-website](https://github.com/jcabak/wai-website)<br>
-28. 🔱 Forked [jcabak/kamal-deploy.org](https://github.com/jcabak/kamal-deploy.org) from [basecamp/kamal-site](https://github.com/basecamp/kamal-site)<br>
-29. 🔱 Forked [jcabak/wai-course-list](https://github.com/jcabak/wai-course-list) from [w3c/wai-course-list](https://github.com/w3c/wai-course-list)<br>
-30. ⬆️ Pushed 223 commit(s) to [jcabak/caprine](https://github.com/jcabak/caprine)<br>
+1. ⭐ Starred [andreasbm/web-skills](https://github.com/andreasbm/web-skills)<br>
+2. ⭐ Starred [artginzburg/MiddleClick-Sonoma](https://github.com/artginzburg/MiddleClick-Sonoma)<br>
+3. ⭐ Starred [FuzzyIdeas/Clop](https://github.com/FuzzyIdeas/Clop)<br>
+4. ⭐ Starred [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)<br>
+5. ⭐ Starred [MrKai77/Loop](https://github.com/MrKai77/Loop)<br>
+6. ⭐ Starred [Vincent-liuwingsang/unlost](https://github.com/Vincent-liuwingsang/unlost)<br>
+7. ⭐ Starred [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab)<br>
+8. ⭐ Starred [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)<br>
+9. ⭐ Starred [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar)<br>
+10. ⭐ Starred [jordanbaird/Ice](https://github.com/jordanbaird/Ice)<br>
+11. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+12. ⭐ Starred [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)<br>
+13. 🔱 Forked [jcabak/intel-rohd-website](https://github.com/jcabak/intel-rohd-website) from [intel/rohd-website](https://github.com/intel/rohd-website)<br>
+14. 🔱 Forked [jcabak/www--site-theme](https://github.com/jcabak/www--site-theme) from [OWASP/www--site-theme](https://github.com/OWASP/www--site-theme)<br>
+15. 🔱 Forked [jcabak/owasp.github.io](https://github.com/jcabak/owasp.github.io) from [OWASP/owasp.github.io](https://github.com/OWASP/owasp.github.io)<br>
+16. 💪 Opened PR [#121](https://github.com/w3c/w3c.github.io/pull/121) in [w3c/w3c.github.io](https://github.com/w3c/w3c.github.io)<br>
+17. ⬆️ Pushed 1 commit(s) to [jcabak/w3c.github.io](https://github.com/jcabak/w3c.github.io)<br>
+18. 🔱 Forked [jcabak/w3c.github.io](https://github.com/jcabak/w3c.github.io) from [w3c/w3c.github.io](https://github.com/w3c/w3c.github.io)<br>
+19. 👍 Approved [#137](https://github.com/w3c/wai-website-data/pull/137#pullrequestreview-1988419617) in [w3c/wai-website-data](https://github.com/w3c/wai-website-data)<br>
+20. 🔱 Forked [jcabak/unicef-kindly-website](https://github.com/jcabak/unicef-kindly-website) from [unicef/kindly-website](https://github.com/unicef/kindly-website)<br>
+21. ⭐ Starred [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css)<br>
+22. 💪 Opened PR [#213](https://github.com/Orange-OpenSource/Orange-Confort-plus/pull/213) in [Orange-OpenSource/Orange-Confort-plus](https://github.com/Orange-OpenSource/Orange-Confort-plus)<br>
+23. ⬆️ Pushed 1 commit(s) to [jcabak/Orange-Confort-plus](https://github.com/jcabak/Orange-Confort-plus)<br>
+24. 🔱 Forked [jcabak/Orange-Confort-plus](https://github.com/jcabak/Orange-Confort-plus) from [Orange-OpenSource/Orange-Confort-plus](https://github.com/Orange-OpenSource/Orange-Confort-plus)<br>
+25. ⭐ Starred [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind)<br>
+26. ⭐ Starred [CloudCannon/rosey](https://github.com/CloudCannon/rosey)<br>
+27. 🔱 Forked [jcabak/RedHatOfficial.github.io](https://github.com/jcabak/RedHatOfficial.github.io) from [RedHatOfficial/RedHatOfficial.github.io](https://github.com/RedHatOfficial/RedHatOfficial.github.io)<br>
+28. ⬆️ Pushed 177 commit(s) to [jcabak/wai-website](https://github.com/jcabak/wai-website)<br>
+29. 🔱 Forked [jcabak/kamal-deploy.org](https://github.com/jcabak/kamal-deploy.org) from [basecamp/kamal-site](https://github.com/basecamp/kamal-site)<br>
+30. 🔱 Forked [jcabak/wai-course-list](https://github.com/jcabak/wai-course-list) from [w3c/wai-course-list](https://github.com/w3c/wai-course-list)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 23rd, 2024, 5:17:45 PM
+Last Updated: Thursday, May 23rd, 2024, 5:37:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
