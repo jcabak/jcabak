@@ -5,7 +5,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcabak&theme=github)
 
 
-
+## 💻 Passionate about open-source. Contributed to projects for companies such as:
 <div align="center">
   <table>
     <tr>
