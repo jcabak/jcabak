@@ -4,6 +4,181 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcabak&theme=github)
 
+
+
+### Hi there 👋
+
+[![Twitter](https://img.shields.io/twitter/follow/jcabak?style=social)](https://twitter.com/intent/follow?screen_name=JCabak)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcabak&theme=github)
+
+## 💻 Passionate about open-source. Contributed to projects for companies such as:
+ <img src="https://github.com/google.png" alt="Google" width="20"/> [Google](https://github.com/google)
+ <img src="https://github.com/apple.png" alt="Apple" width="20"/> [Apple](https://github.com/apple)
+ <img src="https://github.com/microsoft.png" alt="Microsoft" width="20"/> [Microsoft](https://github.com/microsoft)
+ <img src="https://github.com/facebook.png" alt="Facebook" width="20"/> [Facebook](https://github.com/facebook)
+ <img src="https://github.com/nasa.png" alt="NASA" width="20"/> [NASA](https://github.com/nasa)
+<img src="https://github.com/twitter.png" alt="Twitter" width="20"/> [Twitter](https://github.com/twitter)
+  <img src="https://github.com/mozilla.png" alt="Mozilla" width="20"/> [Mozilla](https://github.com/mozilla)
+  <img src="https://github.com/github.png" alt="GitHub" width="20"/> [GitHub](https://github.com/github)
+  <img src="https://github.com/chromium.png" alt="Google Chrome" width="20"/> [Google Chrome](https://github.com/chromium)
+  <img src="https://github.com/rails.png" alt="Rails" width="20"/> [Rails](https://github.com/rails)
+  <img src="https://github.com/home-assistant.png" alt="Home Assistant" width="20"/> [Home Assistant](https://github.com/home-assistant)
+  <img src="https://github.com/raspberrypi.png" alt="Raspberry" width="20"/> [Raspberry](https://github.com/raspberrypi)
+  <img src="https://github.com/w3c.png" alt="W3C" width="20"/> [W3C](https://github.com/w3c)
+  <img src="https://github.com/Orange-OpenSource.png" alt="Orange" width="20"/> [Orange](https://github.com/Orange-OpenSource)
+  <img src="https://github.com/gohugoio.png" alt="gohugoio" width="20"/> [gohugoio](https://github.com/gohugoio)
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/google.png" alt="Google" width="100"/><br>
+        <a href="https://github.com/google">Google</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/apple.png" alt="Apple" width="100"/><br>
+        <a href="https://github.com/apple">Apple</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/microsoft.png" alt="Microsoft" width="100"/><br>
+        <a href="https://github.com/microsoft">Microsoft</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/facebook.png" alt="Facebook" width="100"/><br>
+        <a href="https://github.com/facebook">Facebook</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/nasa.png" alt="NASA" width="100"/><br>
+        <a href="https://github.com/nasa">NASA</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/twitter.png" alt="Twitter" width="100"/><br>
+        <a href="https://github.com/twitter">Twitter</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/mozilla.png" alt="Mozilla" width="100"/><br>
+        <a href="https://github.com/mozilla">Mozilla</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/github.png" alt="GitHub" width="100"/><br>
+        <a href="https://github.com/github">GitHub</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/chromium.png" alt="Google Chrome" width="100"/><br>
+        <a href="https://github.com/chromium">Google Chrome</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/rails.png" alt="Rails" width="100"/><br>
+        <a href="https://github.com/rails">Rails</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/home-assistant.png" alt="Home Assistant" width="100"/><br>
+        <a href="https://github.com/home-assistant">Home Assistant</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/raspberrypi.png" alt="Raspberry" width="100"/><br>
+        <a href="https://github.com/raspberrypi">Raspberry</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/w3c.png" alt="W3C" width="100"/><br>
+        <a href="https://github.com/w3c">W3C</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/Orange-OpenSource.png" alt="Orange" width="100"/><br>
+        <a href="https://github.com/Orange-OpenSource">Orange</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/gohugoio.png" alt="gohugoio" width="100"/><br>
+        <a href="https://github.com/gohugoio">gohugoio</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/google.png" alt="Google" width="100"/><br>
+        <a href="https://github.com/google">Google</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/apple.png" alt="Apple" width="100"/><br>
+        <a href="https://github.com/apple">Apple</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/microsoft.png" alt="Microsoft" width="100"/><br>
+        <a href="https://github.com/microsoft">Microsoft</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/facebook.png" alt="Facebook" width="100"/><br>
+        <a href="https://github.com/facebook">Facebook</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/nasa.png" alt="NASA" width="100"/><br>
+        <a href="https://github.com/nasa">NASA</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/twitter.png" alt="Twitter" width="100"/><br>
+        <a href="https://github.com/twitter">Twitter</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/mozilla.png" alt="Mozilla" width="100"/><br>
+        <a href="https://github.com/mozilla">Mozilla</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/github.png" alt="GitHub" width="100"/><br>
+        <a href="https://github.com/github">GitHub</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/chromium.png" alt="Google Chrome" width="100"/><br>
+        <a href="https://github.com/chromium">Google Chrome</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/rails.png" alt="Rails" width="100"/><br>
+        <a href="https://github.com/rails">Rails</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/home-assistant.png" alt="Home Assistant" width="100"/><br>
+        <a href="https://github.com/home-assistant">Home Assistant</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/raspberrypi.png" alt="Raspberry" width="100"/><br>
+        <a href="https://github.com/raspberrypi">Raspberry</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/w3c.png" alt="W3C" width="100"/><br>
+        <a href="https://github.com/w3c">W3C</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/Orange-OpenSource.png" alt="Orange" width="100"/><br>
+        <a href="https://github.com/Orange-OpenSource">Orange</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/gohugoio.png" alt="gohugoio" width="100"/><br>
+        <a href="https://github.com/gohugoio">gohugoio</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ## Recent Activity
 
 This is a list of my most recent activity on GitHub.
