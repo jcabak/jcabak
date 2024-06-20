@@ -74,8 +74,8 @@
         <a href="https://github.com/Orange-OpenSource">Orange</a>
       </td>
       <td align="center">
-        <img src="https://github.com/gohugoio.png" alt="gohugoio" width="100"/><br>
-        <a href="https://github.com/gohugoio">gohugoio</a>
+        <img src="https://github.com/basecamp.png" alt="basecamp" width="100"/><br>
+        <a href="https://github.com/basecamp">basecamp</a>
       </td>
     </tr>
   </table>
