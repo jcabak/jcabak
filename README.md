@@ -23,13 +23,13 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://github.com/facebook.png" alt="Facebook" width="100"/><br>
-        <a href="https://github.com/facebook">Facebook</a>
+       <td align="center">
+        <img src="https://github.com/mozilla.png" alt="Mozilla" width="100"/><br>
+        <a href="https://github.com/mozilla">Mozilla</a>
       </td>
       <td align="center">
-        <img src="https://github.com/nasa.png" alt="NASA" width="100"/><br>
-        <a href="https://github.com/nasa">NASA</a>
+        <img src="https://github.com/github.png" alt="GitHub" width="100"/><br>
+        <a href="https://github.com/github">GitHub</a>
       </td>
       <td align="center">
         <img src="https://github.com/twitter.png" alt="Twitter" width="100"/><br>
@@ -38,12 +38,12 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/mozilla.png" alt="Mozilla" width="100"/><br>
-        <a href="https://github.com/mozilla">Mozilla</a>
+        <img src="https://github.com/facebook.png" alt="Facebook" width="100"/><br>
+        <a href="https://github.com/facebook">Facebook</a>
       </td>
       <td align="center">
-        <img src="https://github.com/github.png" alt="GitHub" width="100"/><br>
-        <a href="https://github.com/github">GitHub</a>
+        <img src="https://github.com/nasa.png" alt="NASA" width="100"/><br>
+        <a href="https://github.com/nasa">NASA</a>
       </td>
       <td align="center">
         <img src="https://github.com/chromium.png" alt="Google Chrome" width="100"/><br>
@@ -60,8 +60,8 @@
         <a href="https://github.com/home-assistant">Home Assistant</a>
       </td>
       <td align="center">
-        <img src="https://github.com/raspberrypi.png" alt="Raspberry" width="100"/><br>
-        <a href="https://github.com/raspberrypi">Raspberry</a>
+        <img src="https://github.com/Orange-OpenSource.png" alt="Orange" width="100"/><br>
+        <a href="https://github.com/Orange-OpenSource">Orange</a>
       </td>
     </tr>
     <tr>
@@ -69,9 +69,9 @@
         <img src="https://github.com/w3c.png" alt="W3C" width="100"/><br>
         <a href="https://github.com/w3c">W3C</a>
       </td>
-      <td align="center">
-        <img src="https://github.com/Orange-OpenSource.png" alt="Orange" width="100"/><br>
-        <a href="https://github.com/Orange-OpenSource">Orange</a>
+            <td align="center">
+        <img src="https://github.com/raspberrypi.png" alt="Raspberry" width="100"/><br>
+        <a href="https://github.com/raspberrypi">Raspberry</a>
       </td>
       <td align="center">
         <img src="https://github.com/basecamp.png" alt="basecamp" width="100"/><br>
