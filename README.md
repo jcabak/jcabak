@@ -2,8 +2,8 @@
 <!-- PULL_REQUESTS_END -->
 
 ### Hi there 👋
+[![Linkedin](https://img.shields.io/badge/--linkedin?label=JCabak&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jcabak/) [![Twitter](https://img.shields.io/twitter/follow/jcabak?style=social)](https://twitter.com/intent/follow?screen_name=JCabak)
 
-[![Twitter](https://img.shields.io/twitter/follow/jcabak?style=social)](https://twitter.com/intent/follow?screen_name=JCabak)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcabak&theme=github)
 
