@@ -3,6 +3,7 @@
 
 ### Hi there 👋
 I'm passionate about making technology accessible, optimizing performance, contributing to open-source, automating workflows, and translating apps and websites into Polish to reach a wider audience.
+
 [![Linkedin](https://img.shields.io/badge/--linkedin?label=JCabak&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jcabak/) [![Twitter](https://img.shields.io/twitter/follow/jcabak?style=social)](https://twitter.com/intent/follow?screen_name=JCabak)
 
 
