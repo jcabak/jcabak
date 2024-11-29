@@ -112,13 +112,10 @@ This is a list of my most recent activity on GitHub.
 18. ✌️ Released [v0.1-alpha](https://github.com/jcabak/ReadmePullRequests/releases/tag/v0.1) in [jcabak/ReadmePullRequests](https://github.com/jcabak/ReadmePullRequests)<br>
 19. ⬆️ Pushed 1 commit(s) to [jcabak/ReadmePullRequests](https://github.com/jcabak/ReadmePullRequests)<br>
 20. 🔱 Forked [jcabak/sa11y](https://github.com/jcabak/sa11y) from [ryersondmp/sa11y](https://github.com/ryersondmp/sa11y)<br>
-21. 🔴 Requested changes in [#531](https://github.com/w3c/wai-website/pull/531#pullrequestreview-2266719243) in [w3c/wai-website](https://github.com/w3c/wai-website)<br>
-22. 💪 Opened PR [#854](https://github.com/w3c/wai-website/pull/854) in [w3c/wai-website](https://github.com/w3c/wai-website)<br>
-23. ⬆️ Pushed 1 commit(s) to [jcabak/wai-website](https://github.com/jcabak/wai-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 29th, 2024, 5:21:46 AM
+Last Updated: Friday, November 29th, 2024, 5:42:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
