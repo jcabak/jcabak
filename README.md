@@ -92,11 +92,12 @@ I'm passionate about making technology accessible, optimizing performance, contr
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [arvindjuneja/subai](https://github.com/arvindjuneja/subai)<br>
+1. ⭐ Starred [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit)<br>
+2. ⭐ Starred [arvindjuneja/subai](https://github.com/arvindjuneja/subai)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 13th, 2025, 8:16:10 AM
+Last Updated: Thursday, November 13th, 2025, 4:14:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
