@@ -93,11 +93,10 @@ This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit)<br>
-2. ⭐ Starred [arvindjuneja/subai](https://github.com/arvindjuneja/subai)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 22nd, 2025, 12:52:54 AM
+Last Updated: Saturday, November 22nd, 2025, 8:14:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
