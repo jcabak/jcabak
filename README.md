@@ -92,11 +92,13 @@ I'm passionate about making technology accessible, optimizing performance, contr
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)<br>
+1. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)<br>
+2. ⭐ Starred [originalankur/maptoposter](https://github.com/originalankur/maptoposter)<br>
+3. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 29th, 2026, 8:28:08 AM
+Last Updated: Thursday, January 29th, 2026, 4:31:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
