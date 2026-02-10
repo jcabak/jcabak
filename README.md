@@ -96,7 +96,7 @@ This is a list of my most recent activity on GitHub.
 2. ⭐ Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)<br>
 3. ⭐ Starred [loomi-labs/arco](https://github.com/loomi-labs/arco)<br>
 4. ⭐ Starred [iad1tya/Net-Bar](https://github.com/iad1tya/Net-Bar)<br>
-5. ⭐ Starred [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done)<br>
+5. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
 6. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
 7. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)<br>
 8. ⭐ Starred [originalankur/maptoposter](https://github.com/originalankur/maptoposter)<br>
@@ -104,7 +104,7 @@ This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 9th, 2026, 8:38:23 AM
+Last Updated: Tuesday, February 10th, 2026, 1:24:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
