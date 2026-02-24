@@ -92,20 +92,25 @@ I'm passionate about making technology accessible, optimizing performance, contr
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [github/accessibility-scanner](https://github.com/github/accessibility-scanner)<br>
-2. ⭐ Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)<br>
-3. ⭐ Starred [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune)<br>
-4. ⭐ Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)<br>
-5. ⭐ Starred [loomi-labs/arco](https://github.com/loomi-labs/arco)<br>
-6. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
-7. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
-8. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)<br>
-9. ⭐ Starred [originalankur/maptoposter](https://github.com/originalankur/maptoposter)<br>
-10. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)<br>
+1. ⭐ Starred [cjpais/Handy](https://github.com/cjpais/Handy)<br>
+2. ⭐ Starred [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers)<br>
+3. ⭐ Starred [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)<br>
+4. ⭐ Starred [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research)<br>
+5. ⭐ Starred [stonerl/Thaw](https://github.com/stonerl/Thaw)<br>
+6. ⭐ Starred [github/accessibility-scanner](https://github.com/github/accessibility-scanner)<br>
+7. ⭐ Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)<br>
+8. ⭐ Starred [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune)<br>
+9. ⭐ Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)<br>
+10. ⭐ Starred [loomi-labs/arco](https://github.com/loomi-labs/arco)<br>
+11. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
+12. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
+13. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)<br>
+14. ⭐ Starred [originalankur/maptoposter](https://github.com/originalankur/maptoposter)<br>
+15. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 23rd, 2026, 4:43:28 PM
+Last Updated: Tuesday, February 24th, 2026, 1:12:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
