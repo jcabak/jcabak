@@ -104,12 +104,10 @@ This is a list of my most recent activity on GitHub.
 10. ⭐ Starred [loomi-labs/arco](https://github.com/loomi-labs/arco)<br>
 11. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
 12. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
-13. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)<br>
-14. ⭐ Starred [originalankur/maptoposter](https://github.com/originalankur/maptoposter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 28th, 2026, 4:15:31 PM
+Last Updated: Sunday, March 1st, 2026, 1:20:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
