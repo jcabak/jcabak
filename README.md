@@ -103,12 +103,10 @@ This is a list of my most recent activity on GitHub.
 9. ⭐ Starred [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)<br>
 10. ⭐ Starred [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research)<br>
 11. ⭐ Starred [stonerl/Thaw](https://github.com/stonerl/Thaw)<br>
-12. ⭐ Starred [github/accessibility-scanner](https://github.com/github/accessibility-scanner)<br>
-13. ⭐ Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 12th, 2026, 4:49:50 PM
+Last Updated: Friday, March 13th, 2026, 1:11:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
