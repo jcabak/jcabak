@@ -92,10 +92,19 @@ I'm passionate about making technology accessible, optimizing performance, contr
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)<br>
+2. ⭐ Starred [TomBadash/Mouser](https://github.com/TomBadash/Mouser)<br>
+3. ⭐ Starred [DrDonk/Tanoe](https://github.com/DrDonk/Tanoe)<br>
+4. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
+5. ⭐ Starred [FengZeng/soia](https://github.com/FengZeng/soia)<br>
+6. ⭐ Starred [freemocap/freemocap](https://github.com/freemocap/freemocap)<br>
+7. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
+8. ⭐ Starred [EmrecanKaracayir/mecord](https://github.com/EmrecanKaracayir/mecord)<br>
+9. ⭐ Starred [dwarvesf/hidden](https://github.com/dwarvesf/hidden)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 30th, 2026, 9:57:37 AM
+Last Updated: Thursday, April 30th, 2026, 5:07:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
