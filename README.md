@@ -99,11 +99,10 @@ This is a list of my most recent activity on GitHub.
 5. ⭐ Starred [FengZeng/soia](https://github.com/FengZeng/soia)<br>
 6. ⭐ Starred [freemocap/freemocap](https://github.com/freemocap/freemocap)<br>
 7. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
-8. ⭐ Starred [EmrecanKaracayir/mecord](https://github.com/EmrecanKaracayir/mecord)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 1st, 2026, 2:03:30 AM
+Last Updated: Friday, May 1st, 2026, 9:25:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
