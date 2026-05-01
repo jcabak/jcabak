@@ -100,11 +100,10 @@ This is a list of my most recent activity on GitHub.
 6. ⭐ Starred [freemocap/freemocap](https://github.com/freemocap/freemocap)<br>
 7. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
 8. ⭐ Starred [EmrecanKaracayir/mecord](https://github.com/EmrecanKaracayir/mecord)<br>
-9. ⭐ Starred [dwarvesf/hidden](https://github.com/dwarvesf/hidden)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 30th, 2026, 5:07:59 PM
+Last Updated: Friday, May 1st, 2026, 2:03:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
