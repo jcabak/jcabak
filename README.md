@@ -92,16 +92,17 @@ I'm passionate about making technology accessible, optimizing performance, contr
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)<br>
-2. ⭐ Starred [TomBadash/Mouser](https://github.com/TomBadash/Mouser)<br>
-3. ⭐ Starred [DrDonk/Tanoe](https://github.com/DrDonk/Tanoe)<br>
-4. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
-5. ⭐ Starred [FengZeng/soia](https://github.com/FengZeng/soia)<br>
-6. ⭐ Starred [freemocap/freemocap](https://github.com/freemocap/freemocap)<br>
+1. ⭐ Starred [valtteriluomapareto/photo-export](https://github.com/valtteriluomapareto/photo-export)<br>
+2. ⭐ Starred [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)<br>
+3. ⭐ Starred [TomBadash/Mouser](https://github.com/TomBadash/Mouser)<br>
+4. ⭐ Starred [DrDonk/Tanoe](https://github.com/DrDonk/Tanoe)<br>
+5. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
+6. ⭐ Starred [FengZeng/soia](https://github.com/FengZeng/soia)<br>
+7. ⭐ Starred [freemocap/freemocap](https://github.com/freemocap/freemocap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 6th, 2026, 5:21:47 PM
+Last Updated: Thursday, May 7th, 2026, 1:58:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
