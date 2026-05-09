@@ -92,16 +92,19 @@ I'm passionate about making technology accessible, optimizing performance, contr
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [valtteriluomapareto/photo-export](https://github.com/valtteriluomapareto/photo-export)<br>
-2. ⭐ Starred [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)<br>
-3. ⭐ Starred [TomBadash/Mouser](https://github.com/TomBadash/Mouser)<br>
-4. ⭐ Starred [DrDonk/Tanoe](https://github.com/DrDonk/Tanoe)<br>
-5. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
-6. ⭐ Starred [FengZeng/soia](https://github.com/FengZeng/soia)<br>
+1. ⭐ Starred [ZimengXiong/winmux](https://github.com/ZimengXiong/winmux)<br>
+2. ⭐ Starred [keskinonur/claude-code-ios-dev-guide](https://github.com/keskinonur/claude-code-ios-dev-guide)<br>
+3. ⭐ Starred [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps)<br>
+4. ⭐ Starred [valtteriluomapareto/photo-export](https://github.com/valtteriluomapareto/photo-export)<br>
+5. ⭐ Starred [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)<br>
+6. ⭐ Starred [TomBadash/Mouser](https://github.com/TomBadash/Mouser)<br>
+7. ⭐ Starred [DrDonk/Tanoe](https://github.com/DrDonk/Tanoe)<br>
+8. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
+9. ⭐ Starred [FengZeng/soia](https://github.com/FengZeng/soia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 8th, 2026, 5:01:30 PM
+Last Updated: Saturday, May 9th, 2026, 1:58:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
