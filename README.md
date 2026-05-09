@@ -92,18 +92,20 @@ I'm passionate about making technology accessible, optimizing performance, contr
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ZimengXiong/winmux](https://github.com/ZimengXiong/winmux)<br>
-2. ⭐ Starred [keskinonur/claude-code-ios-dev-guide](https://github.com/keskinonur/claude-code-ios-dev-guide)<br>
-3. ⭐ Starred [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps)<br>
-4. ⭐ Starred [valtteriluomapareto/photo-export](https://github.com/valtteriluomapareto/photo-export)<br>
-5. ⭐ Starred [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)<br>
-6. ⭐ Starred [TomBadash/Mouser](https://github.com/TomBadash/Mouser)<br>
-7. ⭐ Starred [DrDonk/Tanoe](https://github.com/DrDonk/Tanoe)<br>
-8. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
+1. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
+2. ⭐ Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)<br>
+3. ⭐ Starred [ZimengXiong/winmux](https://github.com/ZimengXiong/winmux)<br>
+4. ⭐ Starred [keskinonur/claude-code-ios-dev-guide](https://github.com/keskinonur/claude-code-ios-dev-guide)<br>
+5. ⭐ Starred [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps)<br>
+6. ⭐ Starred [valtteriluomapareto/photo-export](https://github.com/valtteriluomapareto/photo-export)<br>
+7. ⭐ Starred [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)<br>
+8. ⭐ Starred [TomBadash/Mouser](https://github.com/TomBadash/Mouser)<br>
+9. ⭐ Starred [DrDonk/Tanoe](https://github.com/DrDonk/Tanoe)<br>
+10. ⭐ Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 9th, 2026, 9:07:31 AM
+Last Updated: Saturday, May 9th, 2026, 4:40:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
