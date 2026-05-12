@@ -92,19 +92,20 @@ I'm passionate about making technology accessible, optimizing performance, contr
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
-2. ⭐ Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)<br>
-3. ⭐ Starred [ZimengXiong/winmux](https://github.com/ZimengXiong/winmux)<br>
-4. ⭐ Starred [keskinonur/claude-code-ios-dev-guide](https://github.com/keskinonur/claude-code-ios-dev-guide)<br>
-5. ⭐ Starred [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps)<br>
-6. ⭐ Starred [valtteriluomapareto/photo-export](https://github.com/valtteriluomapareto/photo-export)<br>
-7. ⭐ Starred [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)<br>
-8. ⭐ Starred [TomBadash/Mouser](https://github.com/TomBadash/Mouser)<br>
-9. ⭐ Starred [DrDonk/Tanoe](https://github.com/DrDonk/Tanoe)<br>
+1. ⭐ Starred [momenbasel/PureMac](https://github.com/momenbasel/PureMac)<br>
+2. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
+3. ⭐ Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)<br>
+4. ⭐ Starred [ZimengXiong/winmux](https://github.com/ZimengXiong/winmux)<br>
+5. ⭐ Starred [keskinonur/claude-code-ios-dev-guide](https://github.com/keskinonur/claude-code-ios-dev-guide)<br>
+6. ⭐ Starred [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps)<br>
+7. ⭐ Starred [valtteriluomapareto/photo-export](https://github.com/valtteriluomapareto/photo-export)<br>
+8. ⭐ Starred [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)<br>
+9. ⭐ Starred [TomBadash/Mouser](https://github.com/TomBadash/Mouser)<br>
+10. ⭐ Starred [DrDonk/Tanoe](https://github.com/DrDonk/Tanoe)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 11th, 2026, 5:48:22 PM
+Last Updated: Tuesday, May 12th, 2026, 2:02:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
