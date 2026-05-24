@@ -101,11 +101,10 @@ This is a list of my most recent activity on GitHub.
 7. ⭐ Starred [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps)<br>
 8. ⭐ Starred [valtteriluomapareto/photo-export](https://github.com/valtteriluomapareto/photo-export)<br>
 9. ⭐ Starred [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)<br>
-10. ⭐ Starred [TomBadash/Mouser](https://github.com/TomBadash/Mouser)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 24th, 2026, 9:47:08 AM
+Last Updated: Sunday, May 24th, 2026, 4:51:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
