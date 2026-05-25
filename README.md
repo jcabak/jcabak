@@ -100,11 +100,10 @@ This is a list of my most recent activity on GitHub.
 6. ⭐ Starred [keskinonur/claude-code-ios-dev-guide](https://github.com/keskinonur/claude-code-ios-dev-guide)<br>
 7. ⭐ Starred [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps)<br>
 8. ⭐ Starred [valtteriluomapareto/photo-export](https://github.com/valtteriluomapareto/photo-export)<br>
-9. ⭐ Starred [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 25th, 2026, 11:42:26 AM
+Last Updated: Monday, May 25th, 2026, 5:27:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
