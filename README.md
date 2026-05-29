@@ -92,19 +92,20 @@ I'm passionate about making technology accessible, optimizing performance, contr
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [francescopace/espectre](https://github.com/francescopace/espectre)<br>
-2. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
-3. ⭐ Starred [momenbasel/PureMac](https://github.com/momenbasel/PureMac)<br>
-4. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
-5. ⭐ Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)<br>
-6. ⭐ Starred [ZimengXiong/winmux](https://github.com/ZimengXiong/winmux)<br>
-7. ⭐ Starred [keskinonur/claude-code-ios-dev-guide](https://github.com/keskinonur/claude-code-ios-dev-guide)<br>
-8. ⭐ Starred [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps)<br>
-9. ⭐ Starred [valtteriluomapareto/photo-export](https://github.com/valtteriluomapareto/photo-export)<br>
+1. ⭐ Starred [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)<br>
+2. ⭐ Starred [francescopace/espectre](https://github.com/francescopace/espectre)<br>
+3. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
+4. ⭐ Starred [momenbasel/PureMac](https://github.com/momenbasel/PureMac)<br>
+5. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
+6. ⭐ Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)<br>
+7. ⭐ Starred [ZimengXiong/winmux](https://github.com/ZimengXiong/winmux)<br>
+8. ⭐ Starred [keskinonur/claude-code-ios-dev-guide](https://github.com/keskinonur/claude-code-ios-dev-guide)<br>
+9. ⭐ Starred [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps)<br>
+10. ⭐ Starred [valtteriluomapareto/photo-export](https://github.com/valtteriluomapareto/photo-export)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 28th, 2026, 6:29:18 PM
+Last Updated: Friday, May 29th, 2026, 2:09:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
