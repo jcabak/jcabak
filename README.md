@@ -101,11 +101,10 @@ This is a list of my most recent activity on GitHub.
 7. ⭐ Starred [ZimengXiong/winmux](https://github.com/ZimengXiong/winmux)<br>
 8. ⭐ Starred [keskinonur/claude-code-ios-dev-guide](https://github.com/keskinonur/claude-code-ios-dev-guide)<br>
 9. ⭐ Starred [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps)<br>
-10. ⭐ Starred [valtteriluomapareto/photo-export](https://github.com/valtteriluomapareto/photo-export)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 5th, 2026, 5:46:35 PM
+Last Updated: Saturday, June 6th, 2026, 2:08:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
