@@ -96,12 +96,10 @@ This is a list of my most recent activity on GitHub.
 2. ⭐ Starred [francescopace/espectre](https://github.com/francescopace/espectre)<br>
 3. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
 4. ⭐ Starred [momenbasel/PureMac](https://github.com/momenbasel/PureMac)<br>
-5. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
-6. ⭐ Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 8th, 2026, 12:20:56 PM
+Last Updated: Monday, June 8th, 2026, 6:18:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
