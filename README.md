@@ -98,13 +98,10 @@ This is a list of my most recent activity on GitHub.
 4. ⭐ Starred [momenbasel/PureMac](https://github.com/momenbasel/PureMac)<br>
 5. ⭐ Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
 6. ⭐ Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)<br>
-7. ⭐ Starred [ZimengXiong/winmux](https://github.com/ZimengXiong/winmux)<br>
-8. ⭐ Starred [keskinonur/claude-code-ios-dev-guide](https://github.com/keskinonur/claude-code-ios-dev-guide)<br>
-9. ⭐ Starred [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 8th, 2026, 2:39:31 AM
+Last Updated: Monday, June 8th, 2026, 12:20:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
