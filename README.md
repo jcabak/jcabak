@@ -92,14 +92,15 @@ I'm passionate about making technology accessible, optimizing performance, contr
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)<br>
-2. ⭐ Starred [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)<br>
-3. ⭐ Starred [francescopace/espectre](https://github.com/francescopace/espectre)<br>
-4. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
+1. ⭐ Starred [clucraft/PriceGhost](https://github.com/clucraft/PriceGhost)<br>
+2. ⭐ Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)<br>
+3. ⭐ Starred [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)<br>
+4. ⭐ Starred [francescopace/espectre](https://github.com/francescopace/espectre)<br>
+5. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 16th, 2026, 12:44:34 PM
+Last Updated: Tuesday, June 16th, 2026, 7:26:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
