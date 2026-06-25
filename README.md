@@ -92,15 +92,16 @@ I'm passionate about making technology accessible, optimizing performance, contr
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jcabak/WyszukiwarkaKlientow](https://github.com/jcabak/WyszukiwarkaKlientow)<br>
-2. ⭐ Starred [clucraft/PriceGhost](https://github.com/clucraft/PriceGhost)<br>
-3. ⭐ Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)<br>
-4. ⭐ Starred [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)<br>
-5. ⭐ Starred [francescopace/espectre](https://github.com/francescopace/espectre)<br>
+1. ⭐ Starred [peetzweg/opensidecar](https://github.com/peetzweg/opensidecar)<br>
+2. ⬆️ Pushed undefined commit(s) to [jcabak/WyszukiwarkaKlientow](https://github.com/jcabak/WyszukiwarkaKlientow)<br>
+3. ⭐ Starred [clucraft/PriceGhost](https://github.com/clucraft/PriceGhost)<br>
+4. ⭐ Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)<br>
+5. ⭐ Starred [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)<br>
+6. ⭐ Starred [francescopace/espectre](https://github.com/francescopace/espectre)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 25th, 2026, 2:14:04 AM
+Last Updated: Thursday, June 25th, 2026, 10:33:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
