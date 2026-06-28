@@ -98,11 +98,10 @@ This is a list of my most recent activity on GitHub.
 4. ⭐ Starred [clucraft/PriceGhost](https://github.com/clucraft/PriceGhost)<br>
 5. ⭐ Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)<br>
 6. ⭐ Starred [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)<br>
-7. ⭐ Starred [francescopace/espectre](https://github.com/francescopace/espectre)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 27th, 2026, 4:56:22 PM
+Last Updated: Sunday, June 28th, 2026, 2:32:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
