@@ -93,14 +93,14 @@ This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)<br>
-2. ⭐ Starred [peetzweg/opensidecar](https://github.com/peetzweg/opensidecar)<br>
+2. ⭐ Starred [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay)<br>
 3. ⬆️ Pushed undefined commit(s) to [jcabak/WyszukiwarkaKlientow](https://github.com/jcabak/WyszukiwarkaKlientow)<br>
 4. ⭐ Starred [clucraft/PriceGhost](https://github.com/clucraft/PriceGhost)<br>
 5. ⭐ Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 30th, 2026, 10:47:37 AM
+Last Updated: Tuesday, June 30th, 2026, 5:45:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
