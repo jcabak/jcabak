@@ -92,14 +92,15 @@ I'm passionate about making technology accessible, optimizing performance, contr
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bariscoach/Uncloud](https://github.com/bariscoach/Uncloud)<br>
-2. ⭐ Starred [rohit267/net-merge](https://github.com/rohit267/net-merge)<br>
-3. ⭐ Starred [restic/restic](https://github.com/restic/restic)<br>
-4. ⭐ Starred [Mak5er/AirCard](https://github.com/Mak5er/AirCard)<br>
+1. ⭐ Starred [mihirgupta0900/tv-home](https://github.com/mihirgupta0900/tv-home)<br>
+2. ⭐ Starred [bariscoach/Uncloud](https://github.com/bariscoach/Uncloud)<br>
+3. ⭐ Starred [rohit267/net-merge](https://github.com/rohit267/net-merge)<br>
+4. ⭐ Starred [restic/restic](https://github.com/restic/restic)<br>
+5. ⭐ Starred [Mak5er/AirCard](https://github.com/Mak5er/AirCard)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 19th, 2026, 3:07:07 PM
+Last Updated: Monday, October 19th, 2026, 8:47:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
