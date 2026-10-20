@@ -92,15 +92,17 @@ I'm passionate about making technology accessible, optimizing performance, contr
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mihirgupta0900/tv-home](https://github.com/mihirgupta0900/tv-home)<br>
-2. ⭐ Starred [bariscoach/Uncloud](https://github.com/bariscoach/Uncloud)<br>
-3. ⭐ Starred [rohit267/net-merge](https://github.com/rohit267/net-merge)<br>
-4. ⭐ Starred [restic/restic](https://github.com/restic/restic)<br>
-5. ⭐ Starred [Mak5er/AirCard](https://github.com/Mak5er/AirCard)<br>
+1. ⭐ Starred [product-noob/android-tv-launcher](https://github.com/product-noob/android-tv-launcher)<br>
+2. ⭐ Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)<br>
+3. ⭐ Starred [mihirgupta0900/tv-home](https://github.com/mihirgupta0900/tv-home)<br>
+4. ⭐ Starred [bariscoach/Uncloud](https://github.com/bariscoach/Uncloud)<br>
+5. ⭐ Starred [rohit267/net-merge](https://github.com/rohit267/net-merge)<br>
+6. ⭐ Starred [restic/restic](https://github.com/restic/restic)<br>
+7. ⭐ Starred [Mak5er/AirCard](https://github.com/Mak5er/AirCard)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 20th, 2026, 2:36:07 AM
+Last Updated: Tuesday, October 20th, 2026, 1:07:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
