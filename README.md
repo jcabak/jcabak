@@ -92,28 +92,30 @@ I'm passionate about making technology accessible, optimizing performance, contr
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pedrovieira/Holeberry](https://github.com/pedrovieira/Holeberry)<br>
-2. ⭐ Starred [bysiber/cleardisk](https://github.com/bysiber/cleardisk)<br>
-3. ⭐ Starred [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop)<br>
-4. ⭐ Starred [cjpais/Handy](https://github.com/cjpais/Handy)<br>
-5. ⭐ Starred [sadekzinho/czytnik-archiwow-gg](https://github.com/sadekzinho/czytnik-archiwow-gg)<br>
-6. ⭐ Starred [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)<br>
-7. ⭐ Starred [every-app/open-seo](https://github.com/every-app/open-seo)<br>
-8. ⭐ Starred [google/artemis](https://github.com/google/artemis)<br>
-9. ⭐ Starred [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)<br>
-10. ⭐ Starred [ContentWriterco/rozklad-mcp](https://github.com/ContentWriterco/rozklad-mcp)<br>
-11. ⭐ Starred [Belluxx/Aleph](https://github.com/Belluxx/Aleph)<br>
-12. ⭐ Starred [0xProbabillity/house-control](https://github.com/0xProbabillity/house-control)<br>
-13. ⭐ Starred [product-noob/android-tv-launcher](https://github.com/product-noob/android-tv-launcher)<br>
-14. ⭐ Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)<br>
-15. ⭐ Starred [mihirgupta0900/tv-home](https://github.com/mihirgupta0900/tv-home)<br>
-16. ⭐ Starred [bariscoach/Uncloud](https://github.com/bariscoach/Uncloud)<br>
-17. ⭐ Starred [net-merge/net-merge](https://github.com/net-merge/net-merge)<br>
-18. ⭐ Starred [restic/restic](https://github.com/restic/restic)<br>
+1. ⭐ Starred [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)<br>
+2. ⭐ Starred [caezium/burrow](https://github.com/caezium/burrow)<br>
+3. ⭐ Starred [pedrovieira/Holeberry](https://github.com/pedrovieira/Holeberry)<br>
+4. ⭐ Starred [bysiber/cleardisk](https://github.com/bysiber/cleardisk)<br>
+5. ⭐ Starred [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop)<br>
+6. ⭐ Starred [cjpais/Handy](https://github.com/cjpais/Handy)<br>
+7. ⭐ Starred [sadekzinho/czytnik-archiwow-gg](https://github.com/sadekzinho/czytnik-archiwow-gg)<br>
+8. ⭐ Starred [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)<br>
+9. ⭐ Starred [every-app/open-seo](https://github.com/every-app/open-seo)<br>
+10. ⭐ Starred [google/artemis](https://github.com/google/artemis)<br>
+11. ⭐ Starred [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)<br>
+12. ⭐ Starred [ContentWriterco/rozklad-mcp](https://github.com/ContentWriterco/rozklad-mcp)<br>
+13. ⭐ Starred [Belluxx/Aleph](https://github.com/Belluxx/Aleph)<br>
+14. ⭐ Starred [0xProbabillity/house-control](https://github.com/0xProbabillity/house-control)<br>
+15. ⭐ Starred [product-noob/android-tv-launcher](https://github.com/product-noob/android-tv-launcher)<br>
+16. ⭐ Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)<br>
+17. ⭐ Starred [mihirgupta0900/tv-home](https://github.com/mihirgupta0900/tv-home)<br>
+18. ⭐ Starred [bariscoach/Uncloud](https://github.com/bariscoach/Uncloud)<br>
+19. ⭐ Starred [net-merge/net-merge](https://github.com/net-merge/net-merge)<br>
+20. ⭐ Starred [restic/restic](https://github.com/restic/restic)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 8th, 2026, 2:37:55 PM
+Last Updated: Sunday, November 8th, 2026, 8:01:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
