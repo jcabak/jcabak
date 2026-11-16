@@ -92,31 +92,33 @@ I'm passionate about making technology accessible, optimizing performance, contr
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [silentprovider423/HomeRoll-Desk](https://github.com/silentprovider423/HomeRoll-Desk)<br>
-2. ⭐ Starred [silentprovider423/HomeRoll](https://github.com/silentprovider423/HomeRoll)<br>
-3. ⭐ Starred [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)<br>
-4. ⭐ Starred [caezium/burrow](https://github.com/caezium/burrow)<br>
-5. ⭐ Starred [pedrovieira/Holeberry](https://github.com/pedrovieira/Holeberry)<br>
-6. ⭐ Starred [bysiber/cleardisk](https://github.com/bysiber/cleardisk)<br>
-7. ⭐ Starred [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop)<br>
-8. ⭐ Starred [cjpais/Handy](https://github.com/cjpais/Handy)<br>
-9. ⭐ Starred [sadekzinho/czytnik-archiwow-gg](https://github.com/sadekzinho/czytnik-archiwow-gg)<br>
-10. ⭐ Starred [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)<br>
-11. ⭐ Starred [every-app/open-seo](https://github.com/every-app/open-seo)<br>
-12. ⭐ Starred [google/artemis](https://github.com/google/artemis)<br>
-13. ⭐ Starred [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)<br>
-14. ⭐ Starred [ContentWriterco/rozklad-mcp](https://github.com/ContentWriterco/rozklad-mcp)<br>
-15. ⭐ Starred [Belluxx/Aleph](https://github.com/Belluxx/Aleph)<br>
-16. ⭐ Starred [0xProbabillity/house-control](https://github.com/0xProbabillity/house-control)<br>
-17. ⭐ Starred [product-noob/android-tv-launcher](https://github.com/product-noob/android-tv-launcher)<br>
-18. ⭐ Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)<br>
-19. ⭐ Starred [mihirgupta0900/tv-home](https://github.com/mihirgupta0900/tv-home)<br>
-20. ⭐ Starred [bariscoach/Uncloud](https://github.com/bariscoach/Uncloud)<br>
-21. ⭐ Starred [net-merge/net-merge](https://github.com/net-merge/net-merge)<br>
+1. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
+2. ⭐ Starred [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)<br>
+3. ⭐ Starred [silentprovider423/HomeRoll-Desk](https://github.com/silentprovider423/HomeRoll-Desk)<br>
+4. ⭐ Starred [silentprovider423/HomeRoll](https://github.com/silentprovider423/HomeRoll)<br>
+5. ⭐ Starred [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)<br>
+6. ⭐ Starred [caezium/burrow](https://github.com/caezium/burrow)<br>
+7. ⭐ Starred [pedrovieira/Holeberry](https://github.com/pedrovieira/Holeberry)<br>
+8. ⭐ Starred [bysiber/cleardisk](https://github.com/bysiber/cleardisk)<br>
+9. ⭐ Starred [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop)<br>
+10. ⭐ Starred [cjpais/Handy](https://github.com/cjpais/Handy)<br>
+11. ⭐ Starred [sadekzinho/czytnik-archiwow-gg](https://github.com/sadekzinho/czytnik-archiwow-gg)<br>
+12. ⭐ Starred [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)<br>
+13. ⭐ Starred [every-app/open-seo](https://github.com/every-app/open-seo)<br>
+14. ⭐ Starred [google/artemis](https://github.com/google/artemis)<br>
+15. ⭐ Starred [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)<br>
+16. ⭐ Starred [ContentWriterco/rozklad-mcp](https://github.com/ContentWriterco/rozklad-mcp)<br>
+17. ⭐ Starred [Belluxx/Aleph](https://github.com/Belluxx/Aleph)<br>
+18. ⭐ Starred [0xProbabillity/house-control](https://github.com/0xProbabillity/house-control)<br>
+19. ⭐ Starred [product-noob/android-tv-launcher](https://github.com/product-noob/android-tv-launcher)<br>
+20. ⭐ Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)<br>
+21. ⭐ Starred [mihirgupta0900/tv-home](https://github.com/mihirgupta0900/tv-home)<br>
+22. ⭐ Starred [bariscoach/Uncloud](https://github.com/bariscoach/Uncloud)<br>
+23. ⭐ Starred [net-merge/net-merge](https://github.com/net-merge/net-merge)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 15th, 2026, 8:39:12 PM
+Last Updated: Monday, November 16th, 2026, 3:48:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
