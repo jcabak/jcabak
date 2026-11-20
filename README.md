@@ -92,30 +92,32 @@ I'm passionate about making technology accessible, optimizing performance, contr
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [huami1314/GestaltX](https://github.com/huami1314/GestaltX)<br>
-2. ⭐ Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)<br>
-3. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
-4. ⭐ Starred [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)<br>
-5. ⭐ Starred [silentprovider423/HomeRoll-Desk](https://github.com/silentprovider423/HomeRoll-Desk)<br>
-6. ⭐ Starred [silentprovider423/HomeRoll](https://github.com/silentprovider423/HomeRoll)<br>
-7. ⭐ Starred [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)<br>
-8. ⭐ Starred [caezium/burrow](https://github.com/caezium/burrow)<br>
-9. ⭐ Starred [pedrovieira/Holeberry](https://github.com/pedrovieira/Holeberry)<br>
-10. ⭐ Starred [bysiber/cleardisk](https://github.com/bysiber/cleardisk)<br>
-11. ⭐ Starred [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop)<br>
-12. ⭐ Starred [cjpais/Handy](https://github.com/cjpais/Handy)<br>
-13. ⭐ Starred [sadekzinho/czytnik-archiwow-gg](https://github.com/sadekzinho/czytnik-archiwow-gg)<br>
-14. ⭐ Starred [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)<br>
-15. ⭐ Starred [every-app/open-seo](https://github.com/every-app/open-seo)<br>
-16. ⭐ Starred [google/artemis](https://github.com/google/artemis)<br>
-17. ⭐ Starred [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)<br>
-18. ⭐ Starred [ContentWriterco/rozklad-mcp](https://github.com/ContentWriterco/rozklad-mcp)<br>
-19. ⭐ Starred [Belluxx/Aleph](https://github.com/Belluxx/Aleph)<br>
-20. ⭐ Starred [0xProbabillity/house-control](https://github.com/0xProbabillity/house-control)<br>
+1. ⭐ Starred [ashemag/human-atlas](https://github.com/ashemag/human-atlas)<br>
+2. ⭐ Starred [vinzdg/codenotch](https://github.com/vinzdg/codenotch)<br>
+3. ⭐ Starred [huami1314/GestaltX](https://github.com/huami1314/GestaltX)<br>
+4. ⭐ Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)<br>
+5. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
+6. ⭐ Starred [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)<br>
+7. ⭐ Starred [silentprovider423/HomeRoll-Desk](https://github.com/silentprovider423/HomeRoll-Desk)<br>
+8. ⭐ Starred [silentprovider423/HomeRoll](https://github.com/silentprovider423/HomeRoll)<br>
+9. ⭐ Starred [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)<br>
+10. ⭐ Starred [caezium/burrow](https://github.com/caezium/burrow)<br>
+11. ⭐ Starred [pedrovieira/Holeberry](https://github.com/pedrovieira/Holeberry)<br>
+12. ⭐ Starred [bysiber/cleardisk](https://github.com/bysiber/cleardisk)<br>
+13. ⭐ Starred [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop)<br>
+14. ⭐ Starred [cjpais/Handy](https://github.com/cjpais/Handy)<br>
+15. ⭐ Starred [sadekzinho/czytnik-archiwow-gg](https://github.com/sadekzinho/czytnik-archiwow-gg)<br>
+16. ⭐ Starred [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)<br>
+17. ⭐ Starred [every-app/open-seo](https://github.com/every-app/open-seo)<br>
+18. ⭐ Starred [google/artemis](https://github.com/google/artemis)<br>
+19. ⭐ Starred [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)<br>
+20. ⭐ Starred [ContentWriterco/rozklad-mcp](https://github.com/ContentWriterco/rozklad-mcp)<br>
+21. ⭐ Starred [Belluxx/Aleph](https://github.com/Belluxx/Aleph)<br>
+22. ⭐ Starred [0xProbabillity/house-control](https://github.com/0xProbabillity/house-control)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 19th, 2026, 4:55:43 PM
+Last Updated: Friday, November 20th, 2026, 4:51:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
