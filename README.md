@@ -107,12 +107,10 @@ This is a list of my most recent activity on GitHub.
 13. ⭐ Starred [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop)<br>
 14. ⭐ Starred [cjpais/Handy](https://github.com/cjpais/Handy)<br>
 15. ⭐ Starred [sadekzinho/czytnik-archiwow-gg](https://github.com/sadekzinho/czytnik-archiwow-gg)<br>
-16. ⭐ Starred [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)<br>
-17. ⭐ Starred [every-app/open-seo](https://github.com/every-app/open-seo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 26th, 2026, 5:57:49 PM
+Last Updated: Friday, November 27th, 2026, 5:50:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Closed Pull Requests
